@@ -1,20 +1,17 @@
-# Hi there, I'm [Jessica Cala] 👋
+# Hi there, I'm Jessica Cala 👋
 
 Welcome to my GitHub profile! Here you can find my projects and contributions to the open-source community.
 
 ## About Me
 
-- 🔭 I’m currently working on several projects related to frontend and backend development.
-- 🌱 I’m currently learning React and enhancing my skills in Node.js.
-- 👯 I’m looking to collaborate on exciting open-source projects.
-- 📫 How to reach me: [Your Email]
-- 💻 Check out my personal website: [Your Website/Portfolio Link]
+- 📫 How to reach me: calajess@gmail.com
+- 💻 Check out my personal website: https://www.linkedin.com/in/jessicacala/
 
 ## Skills
 
-- **Frontend**: Angular, TypeScript, JavaScript, HTML, CSS
+- **Frontend**: Angular, React, TypeScript, JavaScript, HTML, CSS
 - **Backend**: Node.js, Express, RESTful APIs
-- **Tools**: Git, GitHub, Docker, AWS
+- **Tools**: Git, GitHub, AWS
 
 ## Projects
 
