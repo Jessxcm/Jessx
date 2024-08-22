@@ -1,6 +1,6 @@
 # Hi there, I'm Jessica Cala 👋
 
-Welcome to my GitHub profile! Here you can find my projects and contributions to the open-source community.
+Software Engineer with over 4 years of experience in the software development field, certified as a Scrum Master, and specialized in Frontend development.
 
 ## About Me
 
