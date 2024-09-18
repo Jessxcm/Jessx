@@ -2,7 +2,8 @@
 
 ###
 
-<p align="center">Software Engineer with over 4 years of experience in the software development field, certified as a Scrum Master, and specialized in Frontend development.</p>
+<p align="left">💻 Software Engineering with over 4 years of experience.<br>🎓  Studied Computer Science at the Javeriana University, Colombia.<br>✔️ Certified as a Scrum Master.<br>📈 Currently learning Redux.</p>
+
 
 ###
 
