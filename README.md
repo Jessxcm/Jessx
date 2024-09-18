@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jessxcm.jessxcm&"  />
-</div>
+<p align="center">Software Engineer with over 4 years of experience in the software development field, certified as a Scrum Master, and specialized in Frontend development.</p>
 
 ###
 
@@ -19,15 +17,7 @@
 
 ###
 
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="center">Software Engineer with over 4 years of experience in the software development field, certified as a Scrum Master, and specialized in Frontend development.</p>
-
-###
-
-<h3 align="left">Language and tools</h3>
+<h1 align="left">Tech Stack</h1>
 
 ###
 
@@ -65,7 +55,7 @@
 
 ###
 
-<h3 align="left">My stats</h3>
+<h1 align="left">My stats</h1>
 
 ###
 
